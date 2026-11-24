@@ -8,6 +8,8 @@ One commit message (≤200 characters): the funniest thing an AI agent would wri
 
 > fix(prod): broke everything at 3am, all tests green, reverting the fix I have not written yet
 
+The entry text is 93 characters long.
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
